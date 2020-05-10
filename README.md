@@ -13,3 +13,5 @@ lecture 5: https://youtu.be/W6n8MmO8USo ( How to open jupyter? Basic idea how to
 lecture 6: https://youtu.be/0SfUdoxgUMI (How I can read my data into jupyter notebook?)
 
 lecture 7: https://youtu.be/GpjCNSkFolI (Python In-built functions with explaination in 10 minutes. How can use python in built function?)
+
+lecture 8: https://youtu.be/2AewDnWTj7E (Bar chart race of Covid19 deaths by countiers) 
